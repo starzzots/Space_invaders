@@ -1,0 +1,7 @@
+-collison with enemy
+    -bullet collison
+
+-make enemy map generator so maps arent stale
+
+-enemy movement when hit wall move down -32 pix y axis for all enemys
+    -and speed up movement with a delta
